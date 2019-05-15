@@ -12,6 +12,12 @@ import ARKit
 
 class ViewController: UIViewController, ARSCNViewDelegate {
 
+    // fasdfasfafafasdf
+    // faafdfaffafaffff
+    // adfadfafasdfadfa
+    // afsaffffffafaff
+    // adfafasfdsfsdfsf
+    
     @IBOutlet var sceneView: ARSCNView!
     
     override func viewDidLoad() {
